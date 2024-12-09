@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Poppins:wght@300;400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.active {
+  background-color: rgba(48, 39, 132, 1);
+  color: rgba(245, 207, 0, 1);
+}
+
+html {
+  overflow-y: scroll;
+}
+
+body {
+  font-family: "Nunito";
+  background: #fafafa;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Poppins";
+}
