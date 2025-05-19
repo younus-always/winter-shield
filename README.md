@@ -127,8 +127,3 @@ Your contributions, feedback, and support are greatly appreciated! 💙
 Stay warm, stay safe, and keep innovating! 🔥✨  
 
 **Happy coding!** 🚀😊
-
-### Key Additions:
-✅ **Included `.env` file setup**  
-✅ **Step-by-step Firebase configuration guide**  
-✅ **Clear installation and troubleshooting steps**  
